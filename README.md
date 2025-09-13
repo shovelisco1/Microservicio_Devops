@@ -1,2 +1,5 @@
 # Microservicio_Devops
-evaluacion n1
+
+
+Se eligio gitflow para organizar las ramas y facilitar el 
+desarrollo colaborativo manteniendo main estable.
